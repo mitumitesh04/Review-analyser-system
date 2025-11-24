@@ -1,4 +1,4 @@
-\# 🔍 Smart Product Review Analyzer
+# Smart Product Review Analyzer
 
 <div align="center">
 
@@ -22,22 +22,22 @@ This project combines **RoBERTa** (Robustly Optimized BERT) for fake detection w
 
 ---
 
-## ✨ Features
+##  Features
 
 ### Core Capabilities
-- 🤖 **Fake Review Detection** - Identifies computer-generated or suspicious reviews with 85-92% accuracy
-- 💭 **Overall Sentiment Analysis** - Classifies reviews as positive, negative, or neutral with confidence scores
-- 🎯 **Aspect-Based Sentiment** - Analyzes sentiment for 10 product features (battery, camera, screen, price, etc.)
-- 📊 **Bulk Intelligence** - Aggregate analysis across multiple reviews
-- 🏆 **Trust Scoring** - 0-100 scale authenticity rating
-- 📈 **Visual Analytics** - Interactive charts and gauges
+-  **Fake Review Detection** - Identifies computer-generated or suspicious reviews with 85-92% accuracy
+-  **Overall Sentiment Analysis** - Classifies reviews as positive, negative, or neutral with confidence scores
+-  **Aspect-Based Sentiment** - Analyzes sentiment for 10 product features (battery, camera, screen, price, etc.)
+-  **Bulk Intelligence** - Aggregate analysis across multiple reviews
+-  **Trust Scoring** - 0-100 scale authenticity rating
+-  **Visual Analytics** - Interactive charts and gauges
 
 ### Detected Product Aspects
-🔋 Battery | 📷 Camera | 📱 Screen/Display | 💰 Price/Value | ⚙️ Quality/Build | 🚚 Delivery/Shipping | 🎨 Design/Aesthetics | ⚡ Performance/Speed | 📏 Size/Dimensions | 🔊 Sound/Audio
+ Battery |  Camera |  Screen/Display |  Price/Value |  Quality/Build |  Delivery/Shipping |  Design/Aesthetics |  Performance/Speed |  Size/Dimensions | Sound/Audio
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Deep Learning Framework:** PyTorch 2.1.0  
 **Transformer Model:** RoBERTa-base (125M parameters)  
@@ -50,7 +50,7 @@ This project combines **RoBERTa** (Robustly Optimized BERT) for fake detection w
 
 ---
 
-## 📥 Installation
+##  Installation
 
 ### Prerequisites
 - Python 3.8 or higher
@@ -86,7 +86,7 @@ Download fake reviews dataset from [Kaggle](https://www.kaggle.com/datasets/mexw
 
 ---
 
-## 📊 Performance Metrics
+##  Performance Metrics
 
 | Metric | Score |
 |--------|-------|
@@ -110,7 +110,7 @@ This project is licensed under the MIT License.
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Dataset: [Fake Reviews Dataset](https://www.kaggle.com/datasets/mexwell/fake-reviews-dataset)
 - RoBERTa Model: [Hugging Face](https://huggingface.co/roberta-base)
